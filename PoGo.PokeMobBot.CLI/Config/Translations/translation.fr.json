@@ -18,11 +18,11 @@
     },
     {
       "Key": "wrongAuthType",
-      "Value": "Vérifiez le champs AuthType dans auth.json"
+      "Value": "Vérifiez le champ AuthType dans auth.json"
     },
     {
       "Key": "farmPokestopsOutsideRadius",
-      "Value": "Vous êtes en dehors de votre rayon défini! Début de la marche ({0}m de distance) dans 5 secondes."
+      "Value": "Vous êtes en dehors de votre rayon défini ! Début de la marche ({0}m de distance) dans 5 secondes."
     },
     {
       "Key": "farmPokestopsNoUsableFound",
@@ -58,7 +58,7 @@
     },
     {
       "Key": "eventPokemonTransferred",
-      "Value": "{0}\t- {1} / {2}%   [Maximum  {3} / {4}%] ({5} Bonbons)"
+      "Value": "{0}\t- {1} / {2}%   [Meilleur pokémon: CP: {3} IV: {4}%] ({5} Bonbons)"
     },
     {
       "Key": "eventItemRecycled",
@@ -66,7 +66,7 @@
     },
     {
       "Key": "eventPokemonCapture",
-      "Value": "({0}) |{1}-{2} Lv {3} {6}% {4}/{5} | {7}% Chance sur {8}m | {10} {9} restant, {11}"
+      "Value": "({0}) |{1}-{2} Lv {3} {6}% {4}/{5} | {7}% Chance sur {8}m | {10} {9} restant, {11} "
     },
     {
       "Key": "eventNoPokeballs",
@@ -114,11 +114,11 @@
     },
     {
       "Key": "displayHighestsLevelHeader",
-      "Value": "Classement par Niveau"
+      "Value": "Classement par niveau"
     },
     {
       "Key": "welcomeWarning",
-      "Value": "Lat: {0} Lng: {1} de départ sauvegardé."
+      "Value": "Assurez vous que la latitude et la longitude sont éxactes, sinon quittez le bot. Lat: {0} Lng: {1}"
     },
     {
       "Key": "incubatorPuttingEgg",
